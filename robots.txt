@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://5lionsmegawaysdemo.org/sitemap.xml
